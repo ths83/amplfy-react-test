@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Branch: {process.env.BRANCH_NAME}</p>
+        <p>Branch: {process.env.REACT_APP_BRANCH_NAME}</p>
         <a
           className="App-link"
           href="https://reactjs.org"
